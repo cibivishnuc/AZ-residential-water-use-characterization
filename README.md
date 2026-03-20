@@ -17,7 +17,7 @@ The study examines what household, demographic, and climate factors drive indoor
 ## Repository Structure
 
 ```
-├── AZ_data_analysis-characterization.R                 # Main analysis script (self-contained)
+├── AZ_residential_water_use_characterization.R       # Main analysis script (self-contained)
 ├── data/
 │   ├── AZ_Households.xlsx                            # Household demographics and building characteristics
 │   ├── AZ Water Use.csv                              # Daily indoor/outdoor water use per household (GPHD)
