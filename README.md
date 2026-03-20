@@ -203,7 +203,7 @@ The script produces the following files when the relevant `write.csv()` lines ar
 
 If you use this code or data in your work, please cite:
 
-> Chinnasamy, C.V. (2023). *Arizona Residential Water Use Analysis: Flume Smart Meter Study*. Colorado State University. GitHub. [repository URL]
+> Chinnasamy, C. V., Arabi, M., Mayer, P., Bernosky, G., and Warziniack, T. (2025), Characterizing Patterns and Drivers of Single-Family Household Water Uses in Arizona Using High-Resolution Smart-Metered Data, Journal of the American Water Resources Association, 61(2). https://doi.org/10.1111/1752-1688.70016
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
