@@ -24,6 +24,7 @@ The study examines what household, demographic, and climate factors drive indoor
 │   ├── AZ_FLUME_Zipcode_AZMET-stations.csv           # Zip code to nearest AZMET station mapping
 │   ├── AZ_Daily_Weather_Precip_ET_Temp_2021-22.csv   # Daily weather from AZMET stations
 │   └── az disag.xlsx                                 # Flume 2 fixture disaggregation data
+├── LICENSE
 └── README.md
 ```
 
@@ -198,6 +199,14 @@ The script produces the following files when the relevant `write.csv()` lines ar
 | `Flume2_Weekly_Avg_Wateruse.csv` | 8 | Weekly mean water use and climate variables |
 
 ---
+
+## License
+
+This repository is licensed under the
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You are free to share and redistribute the material in any medium or format as long as you give appropriate credit (SEE CITATION BELOW). You may **not** use the material for commercial purposes, and you may **not** distribute modified versions of it.
+
 
 ## Citation
 
