@@ -1,6 +1,6 @@
 # Arizona Residential Water Use Characterization
 
-xploratory analysis of residential water use across Arizona using Flume smart meter data, Water Year 2022
+Xploratory analysis of residential water use across Arizona using Flume smart meter data, Water Year 2022
 
 **This line is from local rstudio app**
 
@@ -212,5 +212,3 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Contact
 
 For questions about the data or analysis, please open an issue in this repository or contact Cibi Vishnu Chinnasamy at [cibivishnuc\@gmail.com](mailto:cibivishnuc@gmail.com){.email}. 
-
-A line I wrote on my local computer...
