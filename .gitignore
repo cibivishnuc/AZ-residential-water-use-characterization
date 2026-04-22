@@ -6,8 +6,10 @@
 .RData
 .RDataTmp
 
+
 # User-specific files
 .Ruserdata
+.Rproj.user
 
 # Example code in package build process
 *-Ex.R
@@ -47,3 +49,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+.DS_Store
+**/.DS_Store
